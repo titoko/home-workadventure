@@ -33,12 +33,6 @@
          "id":2,
          "name":"bottom",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"jitsiRoom",
-                 "type":"string",
-                 "value":"titoko"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":46,
