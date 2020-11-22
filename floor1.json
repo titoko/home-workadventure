@@ -22,7 +22,7 @@
          "name":"start",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -82,6 +82,12 @@
  "nextlayerid":15,
  "nextobjectid":5,
  "orientation":"orthogonal",
+ "properties":[
+        {
+         "name":"exitUrl",
+         "type":"string",
+         "value":"https:\/\/play.workadventu.re\/_\/global\/titoko.github.io\/home-workadventure\/map.json"
+        }],
  "renderorder":"right-down",
  "tiledversion":"1.4.3",
  "tileheight":32,
