@@ -25,7 +25,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/titoko.github.io\/home-workadventure\/floor1.json"
+                 "value":"https:\/\/play.workadventu.re\/_\/global\/titoko.github.io\/home-workadventure\/floor1.j&son"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -52,7 +52,7 @@
          "name":"bottom",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -75,7 +75,7 @@
                 }],
          "opacity":1,
          "type":"objectgroup",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }],
