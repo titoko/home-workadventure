@@ -25,7 +25,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/titoko.github.io\/home-workadventure\/floor1.j&son"
+                 "value":"https:\/\/play.workadventu.re\/_\/global\/titoko.github.io\/home-workadventure\/floor1.json"
                 }],
          "type":"tilelayer",
          "visible":true,
