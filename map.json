@@ -23,7 +23,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":"https:\/\/play.workadventu.re\/_\/global\/titoko.github.io\/home-workadventure\/floor1.json"
                 }],
