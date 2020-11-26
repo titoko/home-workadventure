@@ -37,7 +37,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/titoko.github.io\/home-workadventure\/map.json"
+                 "value":"https:\/\/play.workadventu.re\/_\/toto\/titoko.github.io\/home-workadventure\/map.json"
                 }],
          "type":"tilelayer",
          "visible":false,
